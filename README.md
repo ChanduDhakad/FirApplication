@@ -36,7 +36,7 @@ the Masai FIR application aims to simplify the process of filing FIRs and tracki
 ```
     server.port=8080
 
-    spring.datasource.url=jdbc:mysql://localhost:3306/RoamBusDB;
+    spring.datasource.url=jdbc:mysql://localhost:3306/FirDB;
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
     spring.datasource.username=root
     spring.datasource.password=root
